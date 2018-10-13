@@ -7,7 +7,7 @@ To make the web work we need:
 4. servers and browsers should have an agreed-upon way of exchanging data (HTTP)
 5. a way to send HTTP request to any computer connected to a network (The Internet)
 
-Let's start with the last item. If we had all the other components, but we did not have a way to for browsers
+Let's start with the last item. If we had all the other components, but we did not have a way for browsers
 to find servers or for servers to return HTML texts to browsers, there would be no Web. The web stands on the shoulders of a giant. That giant is the Internet. The Internet provides addresses to the clients and servers so that they can exchange information. It also provides the error-correction and reconnection rules (How does the browser know to ask for more data once you get out from underneath a tunnel?).
 
 On top of this address and connection platform, servers and clients exchange information ("the web"). Technologists say that **the web is an Internet application**, but it is not the only one. Just as the address scheme for houses and the roadways can be used to deliver packages or bills, another **application** of post code addressing and roadways is "delivering a pizza." Another **application** is "organizing precincts for voting." Applications work "on top" of lower level constructs.
@@ -30,7 +30,7 @@ _Extremely High-Resolution, Retina &reg;-Compatible Diagram of the HTTP request 
 At its core, these five components make the internet possible. To recap:
 
 1. The internet allows browsers and servers to connect to each other.
-2. Browsers and server interact with an agreed-upon protocol: HTTP.
+2. Browsers and servers interact with an agreed-upon protocol: HTTP.
 3. Content is represented as HTML documents.
 4. HTML documents are published by web servers.
 5. HTML documents are viewed using web browsers.
